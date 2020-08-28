@@ -1,10 +1,10 @@
 # Bank Marketing Analysis
 
-This project conducts an analysis of bakn marketing data. We are attempting to make business decisions based off the data that about previous marketing campaigns.
+This project conducts an analysis of bank marketing data. We are attempting to make business decisions based off the data that from previous marketing campaigns.
 
 ## Getting Started
 
-You will need to have Anaconda Navigator, and some install of Jupyter Notebook in order to view these documents. Keep in mind all data is retrieved from the internet via provided data sets, or web scraping scripts.
+You will need to have Anaconda Navigator, and some install of Jupyter Notebook in order to view these documents. Keep in mind all data is retrieved from the internet.
 
 ### Prerequisites
 
